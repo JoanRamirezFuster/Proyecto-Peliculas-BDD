@@ -3,9 +3,9 @@
 <br>
 <br>
 <h1 align="center">◄ Idea Del Proyecto ►</h1>
-<h3 align="center">El objetivo principal de este proyecto es crear un portal web que permita mantener información actualizada sobre las películas que se proyectan en un conjunto de cines específicos. Para ello, se utilizará una base de datos compartida para todos los empleados del portal.</h3>
-<h3 align="center">La plataforma se compondrá de un total de 8 páginas, cada una de ellas diseñada para albergar diferentes tipos de datos relacionados con las películas.</h3>
-<h3 align="center">Para saber más sobre el proyecto, sigue leyendo.</h3>
+<p align="center">El objetivo principal de este proyecto es crear un portal web que permita mantener información actualizada sobre las películas que se proyectan en un conjunto de cines específicos. Para ello, se utilizará una base de datos compartida para todos los empleados del portal.</p>
+<p align="center">La plataforma se compondrá de un total de 8 páginas, cada una de ellas diseñada para albergar diferentes tipos de datos relacionados con las películas.</p>
+<p align="center">Para saber más sobre el proyecto, sigue leyendo.</p>
 <br>
 <br>
 <h1 align="center">◄ Base De Datos ►</h1>
