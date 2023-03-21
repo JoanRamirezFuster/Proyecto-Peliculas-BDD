@@ -1,69 +1,69 @@
-<h1 align="center">Projecte  Implantació aplicacions web | PeliculesBDD</h1>
-<h3 align="center">Curs 22/23 | IFC31B</h3>
+<h1 align="center">Proyecto Implantación aplicaciones web | PelículasBDD</h1>
+<h3 align="center">Curso 22/23 | IFC31B</h3>
 <br>
 <br>
-<h1 align="center">◄ Base De Dades ►</h1>
-<p align="center">En aquest projecte, el que teniem que fer era crear una base de dades amb *PHPMYADMIN* on haviem de crear les següents taules:</p>
-<div align="center">•Taula pelicula (id, titol, data_estrena, durada)</div>
-<div align="center">•Taula cinema (id,nom)</div>
-<div align="center">•Taula ciutat (id, nom)</div>
-<div align="center">•Taula genere (id, nom)</div>
-<div align="center">•Taula pelicula_genere (id_pelicula, id_genere)</div>
-<div align="center">•Taula pelicula_cinema (id_pelicula, id_cinema, data</div>
+<h1 align="center">◄ Base De Datos ►</h1>
+<p align="center">En este proyecto, lo que teníamos que hacer era crear una base de datos con *PHPMYADMIN* donde debíamos crear las siguientes tablas:</p>
+<div align="center">•Tabla pelicula (id, titol, data_estrena, durada)</div>
+<div align="center">•Tabla cine (id,nom)</div>
+<div align="center">•Tabla ciutat (id, nom)</div>
+<div align="center">•Tabla genere (id, nom)</div>
+<div align="center">•Tabla pelicula_genere (id_pelicula, id_genere)</div>
+<div align="center">•Tabla pelicula_cinema (id_pelicula, id_cinema, data</div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_bdd.jpg?raw=true" alt="">
 <br>
 <br>
-<h1 align="center">◄ Menu ►</h1>
-<p align="center">Després ens demenaven que fecim un menu on hi hauria els links a cada formulari, a més, a cada formulari s'havia de fer un include del menu:</p>
+<h1 align="center">◄ Menú ►</h1>
+<p align="center">Después nos pedían que hagamos un menú donde estaban los links en cada formulario, además, en cada formulario se tenía que hacer un include del menú:</p>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_menu.jpg?raw=true" alt="">
 <br>
 <br>
-<h1 align="center">◄ Formularis ►</h1>
-<p align="center">Els formularis que haviem de fer són els següents:</p>
-<div align="center"><h2>•Formulari Alta Pelicula</h2></div>
+<h1 align="center">◄ Formularios ►</h1>
+<p align="center">Los formularios a realizar son los siguientes:</p>
+<div align="center"><h2>•Formulario Alta Pelicula</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_peli.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Alta Cine</h2></div>
+<div align="center"><h2>•Formulario Alta Cine</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_cine.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Alta Pelicula Cine</h2></div>
+<div align="center"><h2>•Formulario Alta Película Cine</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_peli_cine.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Alta Pelicula Genere</h2></div>
+<div align="center"><h2>•Formulario Alta Pelicula Genere</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_peli_genere.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Alta Genere</h2></div>
+<div align="center"><h2>•Formulario Alta Genere</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_genere.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Alta Ciutat</h2></div>
+<div align="center"><h2>•Formulario Alta Ciudad</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_ciutat.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Modificar Pelicules</h2></div>
+<div align="center"><h2>•Formulario Modificar Películas</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_modificar.png?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Cercar Pelicules</h2></div>
+<div align="center"><h2>•Formulario Buscar Películas</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_cerca.jpg?raw=true" alt="">
 <br>
-<div align="center"><h2>•Formulari Inici Sessió</h2></div>
+<div align="center"><h2>•Formulario Inicio Sesión</h2></div>
 <img src="https://github.com/JoanRamirezFuster/Pelicules-BDD/blob/master/img_formulari_login.png?raw=true" alt="">
 <br>
 <br>
 <br>
-<h1 align="center">◄ Control D'errors ►</h1>
-<p align="center">A cada formulari haviem de fer els controls d'errors pertinents:</p>
+<h1 align="center">◄ Control de errores ►</h1>
+<p align="center">En cada formulario debíamos realizar los controles de errores pertinentes:</p>
 <br>
 <br>
-<h1 align="center">◄ Classes ►</h1>
-<p align="center">Per a cada formulari, haviem de fer un fitxer php que es diu clase on en cada un d'aquests, hi ha funcions per:</p>
-<div align="center">•Connectar-se a la base de dades</div>
-<div align="center">•Fer inserts a la taula de cada formulari</div>
-<div align="center">•Fer selects a la taula</div>
-<div align="center">•Per a modificar la taula (Update)</div>
-<div align="center">•Per borrar dades de la taula (Delete)</div>
+<h1 align="center">◄ Clases ►</h1>
+<p align="center">Para cada formulario, teníamos que hacer un archivo php que se llama clase donde en cada uno de ellos, hay funciones para:</p>
+<div align="center">•Conectarse a la base de datos</div>
+<div align="center">•Hacer insertos en la mesa de cada formulario</div>
+<div align="center">•Hacer selectos en la mesa</div>
+<div align="center">•Para modificar la tabla (Update)</div>
+<div align="center">•Para borrar datos de la tabla (Delete)</div>
 <br>
 <br>
-<h1 align="center">◄ Dades De Connexio A La Base De Dades ►</h1>
-<p align="center">En aquest arxiu, hi ha les dades necessaries per a que les funcions, puguin accedir a la base de dades. Aquestes són:</p>
+<h1 align="center">◄ Datos De Conexion A La Base De Datos ►</h1>
+<p align="center">En este archivo, están los datos necesarios para que las funciones puedan acceder a la base de datos. Éstas son:</p>
 <div align="center">•$servername=""</div>
 <div align="center">•$username=""</div>
 <div align="center">•$password=""</div>
@@ -71,15 +71,15 @@
 <br>
 <br>
 <h1 align="center">◄ Git | Github ►</h1>
-<p align="center">Tambe ens demenaven, que creesim un repositori de GitHub on penjariem tots els arxius a dins d'aquest, la manera :</p>
+<p align="center">También nos pedían, que creemos un repositorio de GitHub donde colgaríamos todos los archivos dentro de éste, la forma:</p>
 <br>
 <br>
-<h1 align="center">◄ Estil De La Web ►</h1>
-<p align="center">Després ens demenaven que fecim un menu on hi hauria els links a cada formulari, a més, a cada formulari s'havia de fer un include del menu:</p>
+<h1 align="center">◄ Estilo De La Web ►</h1>
+<p align="center">Después nos preguntaban que hiciesemos un menú donde estaría los links en cada formulario, además, en cada formulario se tenía que hacer un include del menú:</p>
 <br>
 <br>
-<h1 align="center">◄ Fet amb ►</h1>
-<p align="center">El projecte està fet amb 3 llenguatges:</p>
+<h1 align="center">◄ Hecho con ►</h1>
+<p align="center">El proyecto está realizado con 3 lenguajes:</p>
 <div align="center">•CSS</div>
 <div align="center">•HTML</div>
 <div align="center">•PHP</div>
