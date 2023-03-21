@@ -1,5 +1,5 @@
-<h1 align="center">Proyecto Implantación aplicaciones web | PelículasBDD</h1>
-<h3 align="center">Curso 22/23 | IFC31B</h3>
+<h1 align="center">🎞 Proyecto Implantación aplicaciones web | PelículasBDD 🎞</h1>
+<h3 align="center">📒 Curso 22/23 | IFC31B 📒</h3>
 <br>
 <br>
 <h1 align="center">◄ Idea Del Proyecto ►</h1>
